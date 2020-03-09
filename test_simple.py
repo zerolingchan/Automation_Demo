@@ -14,3 +14,8 @@ def test_one():
 def test_two():
     r = requests.get('https://www.baidu.com')
     assert r.encoding == 'utf'
+
+#在多个文件添加测试用例使用fixture（scope_session)
+def test_session(scope_session):
+    print("测试账号：%s" % scope_session)
+    assert scope_session == "yhms"
