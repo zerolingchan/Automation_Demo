@@ -1,2 +1,3 @@
-# 将项目名字pytest_interface_test修改为Automation
+# Automation_Demo
+将项目名字pytest_interface_test修改AutomationAutomation_Demo
 python pytest requests selenuim接口、UI自动化学习
