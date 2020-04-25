@@ -1,2 +1,2 @@
-# pytest_interface_test
-python pytest接口测试练手
+# 将项目名字pytest_interface_test修改为Automation
+python pytest requests selenuim接口、UI自动化学习
